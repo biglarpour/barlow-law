@@ -2813,6 +2813,7 @@
 
 		}
             #header h1 img {
+                width:200px;
                 padding-top: 4px;
             }
 
@@ -2917,7 +2918,14 @@
 		}
 
 		@media screen and (max-width: 640px) {
-
+            #header h1 img {
+                width: 140px;
+                padding-top: 4px;
+            }
+            .meet-garrett .inner input.button-input{
+                font-size: 20px !important;
+                width:200px !important;
+            }
 			#header nav a[href="#menu"] {
 				width: 4em;
 				white-space: nowrap;
