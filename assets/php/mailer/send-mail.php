@@ -24,7 +24,7 @@ try {
         $mail->Subject = "BarlowLaw.co " . $name . "wants to get in touch";
         $mail->Body = "<i>" . $message . "</i>";
         $mail->AltBody = $message;
-        if (!empty($gotcha){
+        if (!empty($gotcha)){
             if(!$mail->send()) {
                 echo "Mailer Error: " . $mail->ErrorInfo;
         }
