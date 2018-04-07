@@ -2813,8 +2813,8 @@
 
 		}
             #header h1 img {
-                width:200px;
-                padding-top: 4px;
+                width:180px;
+                padding-top: 7px;
             }
 
 			#header h1 a {
@@ -2919,11 +2919,11 @@
 
 		@media screen and (max-width: 640px) {
             #header h1 img {
-                width: 140px;
-                padding-top: 4px;
+                width: 120px;
+                padding-top: 6px;
             }
             .meet-garrett .inner input.button-input{
-                font-size: 20px !important;
+                font-size: 18px !important;
                 width:200px !important;
             }
 			#header nav a[href="#menu"] {
@@ -3105,8 +3105,8 @@
         text-align:center;
         }
     .meet-garrett .inner input.button-input{
-            font-size: 30px;
-            width:400px;
+            font-size: 20px;
+            width:300px;
             background-color: #45558d;
         }
 
@@ -3117,7 +3117,7 @@
 	}
 
 		#banner .inner {
-			margin: 0 auto;
+			margin:100px auto 0;
 			width: 55em;
 		}
 
@@ -3203,12 +3203,12 @@
 		@media screen and (max-width: 1280px) {
 
 			#banner {
-				padding: 7em 0 8.25em 0 ;
+				padding: 9em 0 8.25em 0 ;
 				background-color: #2e3141;
 				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
 				background-size: auto, cover;
 				background-position: center, center;
-				margin-bottom: -6.5em;
+				margin-bottom: -0.5em;
 			}
 
 		}
@@ -3216,8 +3216,8 @@
 		@media screen and (max-width: 980px) {
 
 			#banner {
-				padding: 12em 3em 12.375em 3em ;
-				margin-bottom: -4.75em;
+				padding: 8em 3em 12.375em 3em ;
+				margin-bottom: -1em;
 			}
 
 				#banner .inner {
