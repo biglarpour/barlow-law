@@ -6,8 +6,7 @@ try {
         $from_email = trim($_POST['email']);
         $message = trim($_POST['message']);
         $gotcha = trim($_POST['gotcha']);
-        //PHPMailer Object
-        $mail = new PHPMailer;
+        echo $gotcha;
     }
 catch (Exception $e)
 {
