@@ -13,7 +13,7 @@ try {
         $mail->FromName = $name;
 
         //To address and name
-        $mail->addAddress("biglarpour@gmail.com", "Abo Test");
+        $mail->addAddress("biglarpour@gmail.com");
 
         //Address to which recipient will reply
         $mail->addReplyTo($from_email, "Reply");
@@ -21,7 +21,7 @@ try {
         //Send HTML or Plain Text email
         $mail->isHTML(true);
 
-        $mail->Subject = "BarlowLaw.co " . $name . "wants to get in touch";
+        $mail->Subject = "Someone tried to contact you at BarlowLaw.co";
         $mail->Body = "<i>" . $message . "</i>";
         $mail->AltBody = $message;
         if (!empty($gotcha)){
