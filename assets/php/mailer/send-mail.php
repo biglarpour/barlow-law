@@ -14,7 +14,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     $mail->FromName = $name;
 
     //To address and name
-    $mail->addAddress("garrett@barlowlaw.co", "Garrett Barlow");
+    $mail->addAddress("biglarpour@gmail.com", "Abo Test");
 
     //Address to which recipient will reply
     $mail->addReplyTo($from_email, "Reply");
