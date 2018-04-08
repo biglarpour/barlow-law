@@ -1,23 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="464.667px" height="127.003px" viewBox="0 0 464.667 127.003" enable-background="new 0 0 464.667 127.003"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="464.666px" height="127.003px" viewBox="0 0 464.666 127.003" enable-background="new 0 0 464.666 127.003"
 	 xml:space="preserve">
-<g id="Layer_1" display="none">
-	<text transform="matrix(1 0 0 1 -1.9341 -200.0645)" display="inline"><tspan x="0" y="0" fill="#154475" font-family="'Mont-HeavyDEMO'" font-size="72" letter-spacing="-2">BARLOW</tspan><tspan x="307.724" y="0" fill="#154475" font-family="'Mont-HeavyDEMO'" font-size="72" letter-spacing="-1"> </tspan><tspan x="321.547" y="0" fill="#154475" font-family="'Mont-ExtraLightDEMO'" font-size="72" letter-spacing="-1">L</tspan><tspan x="356.034" y="0" fill="#154475" font-family="'Mont-ExtraLightDEMO'" font-size="72" letter-spacing="-10">AW</tspan></text>
-	<line fill="none" stroke="#144574" stroke-width="1.75" stroke-miterlimit="10" x1="4" y1="-176.667" x2="464" y2="-176.667"/>
-	<line fill="none" stroke="#144574" stroke-width="1.75" stroke-miterlimit="10" x1="4" y1="-271.333" x2="464" y2="-271.333"/>
-	<text transform="matrix(1 0 0 1 174.4194 -154.001)" fill="#144574" font-family="'Mont-ExtraLightDEMO'" font-size="17">Pasadena, CA</text>
+<g id="Layer_1_1_" display="none">
+	
+		<text transform="matrix(1 0 0 1 -1.9343 -200.0649)" display="inline" fill="#154475" font-family="'Mont-HeavyDEMO'" font-size="72" letter-spacing="-1">BARLOW</text>
+	
+		<text transform="matrix(1 0 0 1 305.7903 -200.0649)" display="inline" fill="#154475" font-family="'Mont-HeavyDEMO'" font-size="72"> </text>
+	
+		<text transform="matrix(1 0 0 1 319.6125 -200.0649)" display="inline" fill="#154475" font-family="'Mont-ExtraLightDEMO'" font-size="72">L</text>
+	
+		<text transform="matrix(1 0 0 1 354.0999 -200.0649)" display="inline" fill="#154475" font-family="'Mont-ExtraLightDEMO'" font-size="72" letter-spacing="-9">AW</text>
+	
+		<line display="inline" fill="none" stroke="#144574" stroke-width="1.75" stroke-miterlimit="10" x1="4" y1="-176.667" x2="464" y2="-176.667"/>
+	
+		<line display="inline" fill="none" stroke="#144574" stroke-width="1.75" stroke-miterlimit="10" x1="4" y1="-271.333" x2="464" y2="-271.333"/>
+	
+		<text transform="matrix(1 0 0 1 174.4192 -154.0015)" display="inline" fill="#144574" font-family="'Mont-ExtraLightDEMO'" font-size="17">Pasadena, CA</text>
 </g>
 <g id="Layer_2">
-	<rect x="-74.333" y="-72.401" display="none" fill="#144574" width="614.576" height="274.486"/>
-	<text transform="matrix(1 0 0 1 -2.7671 74.1025)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Mont-HeavyDEMO'" font-size="72" letter-spacing="-2">BARLOW</tspan><tspan x="307.723" y="0" fill="#FFFFFF" font-family="'Mont-HeavyDEMO'" font-size="72" letter-spacing="-1"> </tspan><tspan x="321.547" y="0" fill="#FFFFFF" font-family="'Mont-ExtraLightDEMO'" font-size="72" letter-spacing="-1">L</tspan><tspan x="356.035" y="0" fill="#FFFFFF" font-family="'Mont-ExtraLightDEMO'" font-size="72" letter-spacing="-10">AW</tspan></text>
-	<line fill="none" stroke="#FFFFFF" stroke-width="1.75" stroke-miterlimit="10" x1="3.167" y1="97.5" x2="463.167" y2="97.5"/>
-	<line fill="none" stroke="#FFFFFF" stroke-width="1.75" stroke-miterlimit="10" x1="3.167" y1="2.833" x2="463.167" y2="2.833"/>
-	<text transform="matrix(1 0 0 1 173.5864 120.166)" fill="#FFFFFF" font-family="'Mont-ExtraLightDEMO'" font-size="17">Pasadena, CA</text>
+	<rect x="-74.333" y="-72.401" display="none" fill="#144574" width="614.575" height="274.486"/>
+	<g enable-background="new    ">
+		<path fill="#FFFFFF" d="M33.96,47.488c4.75,2.252,7.73,6.762,7.73,12.262c0,8.167-7.048,14.354-16.352,14.354H2.106V23.699h22.767
+			c8.938,0,15.459,5.453,15.459,12.899c0,4.504-2.522,8.556-6.373,10.889L33.96,47.488z M27.955,58.098
+			c0-2.678-1.965-4.562-4.973-4.562h-7.543v9.166h7.543C25.99,62.702,27.955,60.817,27.955,58.098z M27.153,38.898
+			c0-2.616-1.792-4.388-4.695-4.388H15.44v8.776h7.018C25.362,43.287,27.154,41.514,27.153,38.898L27.153,38.898z"/>
+		<path fill="#FFFFFF" d="M76.244,65.916H58.378l-2.792,8.187H40.705l19.8-50.404h13.574l20.234,50.404H79.021L76.244,65.916z
+			 M67.283,39.43L61.76,55.049h11.095L67.283,39.43z"/>
+		<path fill="#FFFFFF" d="M116.136,58.68h-5.035v15.422H97.216V23.698h21.847c10.866,0,18.743,7.302,18.743,17.838
+			c0,6.186-3.021,11.254-8,14.235l10.008,18.331h-15.499L116.136,58.68z M111.102,46.982h6.343c3.882,0,6.116-2.337,6.116-5.488
+			c0-3.149-2.234-5.456-6.116-5.456h-6.343V46.982z"/>
+		<path fill="#FFFFFF" d="M175.951,61.386v12.716h-32.008V23.698h14.07v37.688H175.951z"/>
+		<path fill="#FFFFFF" d="M203.922,75.377c-16.204,0-27.767-11.072-27.767-26.477c0-15.405,11.563-26.477,27.767-26.477
+			c16.162,0,27.683,11.029,27.683,26.477C231.605,64.346,220.084,75.376,203.922,75.377L203.922,75.377z M203.922,62.457
+			c7.671,0,13.225-5.667,13.225-13.555s-5.553-13.555-13.225-13.555c-7.672,0-13.308,5.708-13.308,13.554
+			C190.614,56.748,196.25,62.456,203.922,62.457L203.922,62.457z"/>
+		<path fill="#FFFFFF" d="M305.481,23.698l-15.543,50.404h-12.224l-9.67-24.329l-9.484,24.329h-12.223l-15.781-50.404h14.912
+			l8.177,29.051l12.008-28.802h4.805l12.224,28.824l8.012-29.073H305.481z"/>
+	</g>
+	<g enable-background="new    ">
+		<path fill="#FFFFFF" d="M353.505,71.852v2.25h-26.984V23.698h2.357v48.154H353.505z"/>
+	</g>
+	<g enable-background="new    ">
+		<path fill="#FFFFFF" d="M391.56,59.502h-27.744l-6.228,14.6h-2.521l21.387-50.404h2.033l21.963,50.404h-2.557L391.56,59.502z
+			 M364.738,57.289h25.883L377.51,27.12L364.738,57.289z"/>
+		<path fill="#FFFFFF" d="M460.698,23.698l-16.166,50.404h-1.943l-16.118-43.609l-15.853,43.609h-1.944l-16.525-50.404h2.521
+			l15.043,46.271l16.117-44.382h1.225l16.417,44.391l14.725-46.28H460.698z"/>
+	</g>
+	<line fill="none" stroke="#FFFFFF" stroke-width="1.75" stroke-miterlimit="10" x1="3.167" y1="97.5" x2="463.166" y2="97.5"/>
+	<line fill="none" stroke="#FFFFFF" stroke-width="1.75" stroke-miterlimit="10" x1="3.167" y1="2.833" x2="463.166" y2="2.833"/>
+	<g enable-background="new    ">
+		<path fill="#FFFFFF" d="M183.156,111.84c0,2.053-1.598,3.587-3.735,3.587h-3.451v4.738h-0.557v-11.898h4.007
+			C181.541,108.267,183.156,109.796,183.156,111.84z M182.591,111.84c0-1.729-1.36-3.029-3.191-3.029h-3.43v6.072h3.43
+			C181.231,114.883,182.591,113.583,182.591,111.84z"/>
+		<path fill="#FFFFFF" d="M193.93,110.987v9.179h-0.476l-0.06-2.396c-0.736,1.553-2.266,2.575-4.189,2.575
+			c-2.668,0-4.683-2.057-4.683-4.769c0-2.715,2.015-4.768,4.683-4.768c1.925,0,3.457,1.021,4.191,2.577l0.071-2.398H193.93z
+			 M193.377,115.576c0-2.447-1.747-4.236-4.143-4.236c-2.372,0-4.161,1.832-4.161,4.236c0,2.419,1.789,4.237,4.161,4.237
+			C191.631,119.813,193.377,118.024,193.377,115.576z"/>
+		<path fill="#FFFFFF" d="M196.409,117.667h0.535c0.145,1.373,1.241,2.163,2.975,2.163c1.751,0,2.911-0.824,2.911-2.095
+			c0-1.59-1.496-1.87-3.009-2.125c-1.589-0.271-3.229-0.557-3.229-2.358c0-1.458,1.317-2.443,3.255-2.443
+			c1.951,0,3.191,0.981,3.281,2.566h-0.522c-0.089-1.296-1.105-2.065-2.767-2.065c-1.636,0-2.715,0.773-2.715,1.93
+			c0,1.377,1.326,1.598,2.822,1.849c1.606,0.268,3.425,0.595,3.425,2.631c0,1.58-1.385,2.626-3.463,2.626
+			C197.841,120.344,196.553,119.333,196.409,117.667z"/>
+		<path fill="#FFFFFF" d="M214.466,110.987v9.179h-0.476l-0.06-2.396c-0.736,1.553-2.266,2.575-4.189,2.575
+			c-2.668,0-4.683-2.057-4.683-4.769c0-2.715,2.015-4.768,4.683-4.768c1.925,0,3.457,1.021,4.191,2.577l0.071-2.398H214.466z
+			 M213.913,115.576c0-2.447-1.747-4.236-4.143-4.236c-2.372,0-4.161,1.832-4.161,4.236c0,2.419,1.789,4.237,4.161,4.237
+			C212.166,119.813,213.913,118.024,213.913,115.576z"/>
+		<path fill="#FFFFFF" d="M226.365,107.744v12.422h-0.455l-0.077-2.34c-0.748,1.521-2.268,2.519-4.165,2.519
+			c-2.681,0-4.679-2.057-4.679-4.769c0-2.715,1.998-4.768,4.679-4.768c1.886,0,3.399,0.984,4.152,2.49v-5.555H226.365z
+			 M225.847,115.576c0-2.443-1.751-4.236-4.148-4.236c-2.371,0-4.156,1.814-4.156,4.236c0,2.409,1.785,4.237,4.156,4.237
+			C224.096,119.813,225.847,118.015,225.847,115.576z"/>
+		<path fill="#FFFFFF" d="M238.011,115.742h-8.569c0.083,2.349,1.792,4.066,4.064,4.066c1.619,0,2.911-0.841,3.646-2.261h0.578
+			c-0.867,1.815-2.346,2.797-4.224,2.797c-2.618,0-4.603-2.057-4.603-4.781c0-2.698,1.985-4.755,4.603-4.755
+			c2.64,0,4.513,2.057,4.513,4.704C238.019,115.584,238.015,115.669,238.011,115.742z M229.45,115.227h8.033
+			c-0.141-2.323-1.82-3.896-3.978-3.896C231.286,111.331,229.603,112.968,229.45,115.227z"/>
+		<path fill="#FFFFFF" d="M248.206,114.735v5.431h-0.544v-5.338c0-2.188-1.19-3.51-3.157-3.51c-1.875,0-3.477,1.61-3.477,3.502
+			v5.346h-0.544v-9.179h0.429l0.097,2.116c0.626-1.354,2.019-2.295,3.597-2.295C246.822,110.808,248.206,112.368,248.206,114.735z"
+			/>
+		<path fill="#FFFFFF" d="M259.974,110.987v9.179h-0.476l-0.06-2.396c-0.736,1.553-2.267,2.575-4.189,2.575
+			c-2.669,0-4.684-2.057-4.684-4.769c0-2.715,2.015-4.768,4.684-4.768c1.924,0,3.456,1.021,4.191,2.577l0.07-2.398H259.974z
+			 M259.421,115.576c0-2.447-1.746-4.236-4.143-4.236c-2.371,0-4.16,1.832-4.16,4.236c0,2.419,1.789,4.237,4.16,4.237
+			C257.675,119.813,259.421,118.024,259.421,115.576z"/>
+		<path fill="#FFFFFF" d="M262.84,121.551c0.412-0.272,0.552-0.616,0.552-1.386h-0.586v-1.045h0.973v0.973
+			c0,1.062-0.268,1.547-0.938,1.912V121.551z"/>
+		<path fill="#FFFFFF" d="M270.676,114.229c0-3.557,2.528-6.137,6.064-6.137c2.618,0,4.666,1.437,5.481,3.757h-0.578
+			c-0.79-2.002-2.592-3.208-4.903-3.208c-3.196,0-5.499,2.333-5.499,5.588s2.291,5.562,5.499,5.562c2.376,0,4.22-1.274,5.006-3.417
+			h0.565c-0.803,2.465-2.891,3.965-5.571,3.965C273.193,120.339,270.676,117.786,270.676,114.229z"/>
+		<path fill="#FFFFFF" d="M291.799,116.719h-6.55l-1.47,3.446h-0.595l5.049-11.898h0.479l5.185,11.898h-0.604L291.799,116.719z
+			 M285.467,116.197h6.11l-3.096-7.122L285.467,116.197z"/>
+	</g>
 </g>
 <g id="Layer_3" display="none">
-	<text transform="matrix(1 0 0 1 -2.7671 348.9248)" display="inline"><tspan x="0" y="0" fill="#154475" font-family="'Mont-HeavyDEMO'" font-size="72" letter-spacing="-2">BARLOW</tspan><tspan x="307.723" y="0" fill="#154475" font-family="'Mont-HeavyDEMO'" font-size="72" letter-spacing="-1"> </tspan><tspan x="321.547" y="0" fill="#154475" font-family="'Mont-ExtraLightDEMO'" font-size="72" letter-spacing="-1">L</tspan><tspan x="356.035" y="0" fill="#154475" font-family="'Mont-ExtraLightDEMO'" font-size="72" letter-spacing="-10">AW</tspan></text>
+	
+		<text transform="matrix(1 0 0 1 -2.7673 348.9243)" display="inline" fill="#154475" font-family="'Mont-HeavyDEMO'" font-size="72" letter-spacing="-1">BARLOW</text>
+	
+		<text transform="matrix(1 0 0 1 304.9563 348.9243)" display="inline" fill="#154475" font-family="'Mont-HeavyDEMO'" font-size="72"> </text>
+	
+		<text transform="matrix(1 0 0 1 318.7795 348.9243)" display="inline" fill="#154475" font-family="'Mont-ExtraLightDEMO'" font-size="72">L</text>
+	
+		<text transform="matrix(1 0 0 1 353.2678 348.9243)" display="inline" fill="#154475" font-family="'Mont-ExtraLightDEMO'" font-size="72" letter-spacing="-9">AW</text>
 </g>
 </svg>
