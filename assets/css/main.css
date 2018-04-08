@@ -1648,7 +1648,7 @@
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
-				font-size: 13pt;
+				font-size: 12pt;
 			}
 
 		}
@@ -2814,7 +2814,7 @@
 		}
             #header h1 img {
                 width:180px;
-                padding-top: 7px;
+                padding-top: 4px;
             }
 
 			#header h1 a {
@@ -2893,6 +2893,11 @@
 				line-height: 2.75em;
 			}
 
+			#header h1 img {
+			    width: 140px;
+			    padding-top: 3px;
+			}
+
 				#header nav {
 					top: 0;
 					right: 0;
@@ -2919,8 +2924,8 @@
 
 		@media screen and (max-width: 640px) {
             #header h1 img {
-                width: 120px;
-                padding-top: 6px;
+                width: 130px;
+                padding-top: 4.5px;
             }
             .meet-garrett .inner input.button-input{
                 font-size: 18px !important;
