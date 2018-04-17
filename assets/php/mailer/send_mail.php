@@ -24,7 +24,7 @@ try {
 
 
         if(!array_key_exists('gotcha', $_POST)) {
-            died("Who do you think you are trying to abuse us.");
+            died("Permission Denied!");
         }
 
         if(!preg_match($email_exp, $email)) {
