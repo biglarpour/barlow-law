@@ -42,9 +42,9 @@ try {
         $mail = new PHPMailer();
         $mail->SMTPDebug  = 0;
         $mail->SMTPAuth   = true;
-        $mail->SMTPSecure = "ssl";
+        $mail->SMTPSecure = "tls";
         $mail->Host       = "smtp.gmail.com";
-        $mail->Port       = 465;
+        $mail->Port       = 587;
         $mail->AddAddress("biglarpour@gmail.com");
         $mail->Username= "barlowlawwebsite@gmail.com";
         $mail->Password= "Makemoney!2018";
