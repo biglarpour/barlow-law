@@ -16,7 +16,7 @@ try {
         $email = $_POST['email'];
         $name = $_POST['name'];
         $message = $_POST['message'];
-        $subject = $name . " contacting you via Biglarpour.com";
+        $subject = $name . " contacting you via Barlowlaw.co";
 
         $error_message = "";
         $email_exp = '/^[A-Za-z0-9._%-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$/';
@@ -42,9 +42,9 @@ try {
         $mail = new PHPMailer();
         $mail->SMTPDebug  = 0;
         $mail->SMTPAuth   = true;
-        $mail->SMTPSecure = "tls";
+        $mail->SMTPSecure = "ssl";
         $mail->Host       = "smtp.gmail.com";
-        $mail->Port       = 587;
+        $mail->Port       = 465;
         $mail->AddAddress("biglarpour@gmail.com");
         $mail->Username= "barlowlawwebsite@gmail.com";
         $mail->Password= "Makemoney!2018";
