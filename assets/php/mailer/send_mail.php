@@ -45,17 +45,17 @@ try {
         $mail->SMTPSecure = "ssl";
         $mail->Host       = "smtp.gmail.com";
         $mail->Port       = 465;
-        $mail->AddAddress("biglarpour@gmail.com");
+        $mail->AddAddress("abo@biglarpour.com");
         $mail->Username= "barlowlawwebsite@gmail.com";
         $mail->Password= "Makemoney!2018";
-        $mail->SetFrom($email, $name);
+        $mail->SetFrom("barlowlawwebsite@gmail.com", $name);
         $mail->AddReplyTo($email, $name);
         $mail->Subject    = $subject;
         $mail->MsgHTML($message);
         $mail->Send();
-        header("Location:http://barlowlaw.co");
+        echo "Email should be received now.";
         exit();
-        }
+    }
     else{
         echo "No email found in POST" . $_POST;
     }
